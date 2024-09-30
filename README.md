@@ -4,8 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chetansharma74&label=Profile%20views&color=0e75b6&style=flat" alt="chetansharma74" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chetansharma74" alt="chetansharma74" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/chetans38369245" target="blank"><img src="https://img.shields.io/twitter/follow/chetans38369245?logo=twitter&style=for-the-badge" alt="chetans38369245" /></a> </p>
 
 - 🌱 I’m currently learning **python,ADVPHP**
